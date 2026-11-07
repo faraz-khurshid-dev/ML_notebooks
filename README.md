@@ -1,1 +1,1 @@
-This is an ML notebook
+This is a repository of different ML notebooks.
